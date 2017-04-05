@@ -1,6 +1,6 @@
-# Node.js Starter Overview
+# Node.js Starter Overview with IBM Dash DB
 
-The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
+The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework and way to connect to IBM DashDB.
 
 ## Run the app locally
 
@@ -26,5 +26,7 @@ The resource file mode is invalid: File mode '0555' is invalid.
 
 Run this command as sudo:
 chmod -R 744 ./node_modules/*
+
+Video Tutorial: https://www.youtube.com/watch?v=Q862P1ZA_Iw
 
 
